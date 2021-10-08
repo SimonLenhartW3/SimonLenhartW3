@@ -1,7 +1,7 @@
-👋 Hi, I’m @SimonLenhartW3
-This is my working account from the company W3 digital brands. 
-👀 I’m interested in web development.
-🌱 I’m currently learning angular.
+👋 Hi, I’m @SimonLenhartW3 <br />
+This is my working account from the company W3 digital brands. <br />
+👀 I’m interested in web development.<br />
+🌱 I’m currently learning angular.<br />
 📫 How to reach me: simon.lenhart@w3-digitalbrands.com
 
 <!---
